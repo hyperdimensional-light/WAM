@@ -1,0 +1,12 @@
+Tesla Coil vs. WAM
+
+At UHF frequencies, a length of transmission line, or a section of wave guide, can act as a resonant circuit.
+
+At lower frequencies, resonant circuits are formed from combinations of coils and capacitors.
+
+The Secondary of a Tesla Coil is a Series LC Circuit.  It is a resonant circuit, composed of a coil in series with an elevated capacitance.
+
+If the Secondary is to resonant at a UHF frequency, then instead of being a coil and a capacitor, it can simply be a length of transmission line, or a section of wave guide.
+
+A Wave Articulation Matrix is similar to a Tesla Coil.  In a WAM, the Secondary is a nested waveguide.
+
