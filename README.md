@@ -1,4 +1,0 @@
-WAM
-===
-
-Wave Articulation Matrix
